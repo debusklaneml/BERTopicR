@@ -1,10 +1,12 @@
-
 # BERTopicR
 
 <!-- badges: start -->
+
 <!-- badges: end -->
 
-The goal of BERTopicR is to make the use of BERTopic functions available in R without much fuss. 
+The goal of BERTopicR is to make the use of BERTopic functions available in R without much fuss.
+
+The python BERTopic page can be found [HERE](https://maartengr.github.io/BERTopic/index.html).
 
 ## Installation
 
@@ -23,4 +25,3 @@ This is a basic example which shows you how to solve a common problem:
 library(BERTopicR)
 ## basic example code
 ```
-
